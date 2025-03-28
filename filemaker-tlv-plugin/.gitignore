@@ -1,0 +1,16 @@
+# Build directories
+build/
+bin/
+*.fmx
+*.fmplugin
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# FileMaker temporary files
+*.fmp12-tmp
